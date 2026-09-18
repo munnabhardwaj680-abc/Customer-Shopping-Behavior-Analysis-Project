@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛍️ Customer Shopping Behavior Analysis
-
+![Customer Behavior Dashboard](Dashboard.png)
 ### End-to-End Analysis Pipeline: Python (Cleaning) → PostgreSQL (SQL) → Power BI (Dashboard)
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)

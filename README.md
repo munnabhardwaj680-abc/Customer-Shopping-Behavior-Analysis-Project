@@ -10,8 +10,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!-- 📸 Add a real screenshot of the Power BI dashboard here -->![Customer Behavior Dashboard](Dashboard.png)
-
+<!-- 📸 Add a real screenshot of the Power BI dashboard here --> 
+![Customer Behavior Dashboard](Dashboard.png)
 </div>
 
 ---

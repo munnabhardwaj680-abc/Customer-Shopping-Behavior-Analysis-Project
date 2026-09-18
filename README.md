@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛍️ Customer Shopping Behavior Analysis
-![Customer Behavior Dashboard](Dashboard.png)
+
 ### End-to-End Analysis Pipeline: Python (Cleaning) → PostgreSQL (SQL) → Power BI (Dashboard)
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,8 +10,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!-- 📸 Add a real screenshot of the Power BI dashboard here -->
-<!-- ![Dashboard Preview](./assets/PowerBi_Dashboard.png) -->
+<!-- 📸 Add a real screenshot of the Power BI dashboard here -->![Customer Behavior Dashboard](Dashboard.png)
 
 </div>
 
